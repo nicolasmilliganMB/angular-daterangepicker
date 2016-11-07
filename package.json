@@ -7,13 +7,10 @@
     "Tibor Kulčár <tibor.kulcar@fragaria.cz>",
     "Lukáš Marek <lukas.marek@fragaria.cz>"
   ],
+  "main": "js/angular-daterangepicker.js",
   "description": "Angular.js wrapper for Dan Grosmann's bootstrap date range picker (https://github.com/dangrossman/bootstrap-daterangepicker).",
   "license": "MIT",
   "private": false,
-  "dependencies": {
-    "bootstrap-daterangepicker": "1.3.23"
-  },
-  "main": "index.js",
   "devDependencies": {
     "coffeelint": "^1.12.1",
     "grunt": "~0.4.1",
@@ -24,5 +21,29 @@
     "grunt-ng-annotate": "^1.0.1",
     "grunt-wiredep": "^2.0.0",
     "load-grunt-tasks": "^3.3.0"
-  }
+  },
+  "gitHead": "82f904a53b5cc513375de9059d6d3abc1cd370ed",
+  "_id": "angular-daterangepicker@0.2.2",
+  "scripts": {},
+  "_shasum": "080351b703a13d7745310b9becaf6ba4bf079c9a",
+  "_from": "angular-daterangepicker@*",
+  "_npmVersion": "3.3.12",
+  "_nodeVersion": "5.1.0",
+  "_npmUser": {
+    "name": "ashsearle",
+    "email": "ash@hexmen.com"
+  },
+  "dist": {
+    "shasum": "080351b703a13d7745310b9becaf6ba4bf079c9a",
+    "tarball": "https://registry.npmjs.org/angular-daterangepicker/-/angular-daterangepicker-0.2.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "ashsearle",
+      "email": "ash@hexmen.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/angular-daterangepicker/-/angular-daterangepicker-0.2.2.tgz",
+  "readme": "ERROR: No README data found!"
 }
